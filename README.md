@@ -1,2 +1,0 @@
-# UFG-AED
-UFG 2021-2 AED
